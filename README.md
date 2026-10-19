@@ -1,4 +1,4 @@
-# Hi, I'm Abu Ralah 👋
+# Hi, I'm Abu Ralah 
 
 ### Computer Science Graduate · Data Science & Analytics · Doha, Qatar
 
@@ -9,7 +9,7 @@ I recently completed my B.Sc. in Computer Science (CGPA 8.18/10) at Savitribai P
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it shows | Tech |
 |---|---|---|
@@ -18,7 +18,7 @@ I recently completed my B.Sc. in Computer Science (CGPA 8.18/10) at Savitribai P
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -38,32 +38,32 @@ I recently completed my B.Sc. in Computer Science (CGPA 8.18/10) at Savitribai P
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Sc. in Computer Science**, Savitribai Phule Pune University, Doha, Qatar *(Sept 2022 – June 2026)*
 CGPA: 8.18/10 (Grade A) · 160 credits
 Coursework: Mathematics I–III, Statistics I–III, Foundations of Data Science, Data Structures & Algorithms I–II, Database Management Systems, Python, Core & Advanced Java, C / Advanced C
 
-## 📜 Certifications
+##  Certifications
 - Data Analytics Essentials, Cisco Networking Academy (2026)
 - Python for Data Science & Machine Learning Bootcamp, Udemy (2025)
 
-## 💼 Experience
+##  Experience
 **Software Development Intern**, Zool Tech Solutions, Bangalore *(July 2024)*
 Built a responsive café website from design mockups using HTML5, CSS3, Bootstrap 5 and JavaScript, delivered within the one-month internship.
 
-## 🤝 Activities & Achievements
+##  Activities & Achievements
 - Resonance Science Club (2022–2026) and The Intellectual Club (2024–2026): science seminars, discussions and debates
 - Bronze medal, Qatar Airways Student Bowling Championship (Nov 2024)
 - Won 9 gold and 4 silver medals across 7 sports at annual university tournaments; team captain of the dodgeball team in 2023, 2024 and 2025
 
-## 🌍 Languages
+##  Languages
 Hindi (fluent) · Urdu · Arabic (reading and writing) · Bengali · English
 
 ---
 
-## 🎯 Currently
+##  Currently
 - Building up my project portfolio in data science and analytics
 - Looking for graduate study opportunities
 
-⭐ Feel free to explore my repositories, and get in touch through LinkedIn or email.
+ Feel free to explore my repositories, and get in touch through LinkedIn or email.
