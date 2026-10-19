@@ -58,7 +58,7 @@ Built a responsive café website from design mockups using HTML5, CSS3, Bootstra
 - Won 9 gold and 4 silver medals across 7 sports at annual university tournaments; team captain of the dodgeball team in 2023, 2024 and 2025
 
 ##  Languages
-Hindi (fluent) · Urdu · Arabic (reading and writing) · Bengali · English
+English · Hindi (fluent) · Urdu · Arabic (reading and writing) · Bengali 
 
 ---
 
